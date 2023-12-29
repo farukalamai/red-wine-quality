@@ -1,0 +1,1 @@
+from src.red_wine_quality.config import configuration
